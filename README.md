@@ -1,1 +1,1 @@
-# maze-solver
+# maze-solverinfo about this project
